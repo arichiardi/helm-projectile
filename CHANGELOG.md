@@ -4,6 +4,8 @@
 
 ### New features
 
+* [#180](https://github.com/bbatsov/helm-projectile/pull/180): Introduce `helm-projectile-ignore-strategy` defcustom.
+
 ### Changes
 
 ### Bugs fixed
